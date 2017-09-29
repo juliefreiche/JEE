@@ -1,0 +1,6 @@
+
+{
+"port": 1337,
+"contentDirectory": "/home/ubuntu/Desktop/asi2-node-master/tp/upload",
+"presentationDirectory": "/home/ubuntu/Desktop/asi2-node-master/tp/presentation_content"
+}

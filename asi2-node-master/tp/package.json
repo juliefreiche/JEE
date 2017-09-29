@@ -1,0 +1,16 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "\"TP nodeJS\"",
+  "main": "app.js",
+  "scripts": {
+	"test": "node testContentModel.js",
+	"start": "node app.js"
+},
+  "private": true,
+  "author": "julie Freiche",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
